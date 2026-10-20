@@ -23,10 +23,10 @@ c, I would also check how many colleagues are out of office or on longer leave. 
 I would prioritize Developers with Active account such as Emma Watson, John Doe or Bruce Wayne.
 Licences can be revoked immediately: a, Jane Smith - Test Account b, David Miller - inactive account c, Clark Kent - On leave d, Jane Doe - reporter ( does not require coding tools for her tasks)
 
-3.**Escalation & Help:**
+3. **Escalation & Help:**
 I would contact the IT Manger with this problem providing the following details: a, business impact ( 40+ devs cannot work, it can cause delivery delays-->possible financial impact ) b, information/experiences i have collected from the Github support and from our developers c, possible work arounds how we could handle the situation temporarily
 
-4.**User Communication:**
+4. **User Communication:**
 Hi All,
 We are currently experiencing an unexpected license problem with our AI code assistant plugin, causing the following error: "License expired or quota exceeded".
 We are actively working on the solution to unblock everyone as quickly as possible. Until then, please focus on non-coding duties, such as:
@@ -34,3 +34,5 @@ We are actively working on the solution to unblock everyone as quickly as possib
 • Knowledge sharing
 • Documentation tasks
 Feel free to contact me with questions. Thank you for your patience!
+
+
