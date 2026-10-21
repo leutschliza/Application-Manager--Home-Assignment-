@@ -12,7 +12,7 @@ owner: "Finance IT"
 creation_date: "2025-02-30"
 ```
 
-This cannot be true.
+This cannot be true. February 30 does not exist.
 
 c, Providing access to "payment-gateway" for external user can casue a security risk. As sensitive info such as finance related topics should not be handled by a third party.
 
